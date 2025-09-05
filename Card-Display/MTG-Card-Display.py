@@ -7,6 +7,10 @@ This script will store a list of card names. When the user enters a card name, i
 - Run program and test. 
 """
 
+# Feel free to add or subtract cards from this list and test to see what happens if the card you choose is not in the included list. This is for testing and running purposes to showcase that I can make a simple python script that does something. 
+
+# If your not familiar with Magic: the Gathering, refer to https://scryfall.com and use the 'Random Card' button to give you cards to add to list. 
+
 def card_database(cardname):
     card_list = [
         "Bloodstained Mire", "Flooded Strand", "Polluted Delta", "Windswept Heath", "Wooded Foothills", "Arid Mesa", "Misty Rainforest", "Scalding Tarn", "Verdant Catacombs", "Marsh Flats", "Black Lotus", "Ancestral Recall", "Time Walk", "Timetwister", "Mox Pearl", "Mox Sapphire", "Mox Jet", "Mox Ruby", "Mox Emerald"
