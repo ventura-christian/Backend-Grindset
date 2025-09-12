@@ -20,13 +20,9 @@ Following the [Backend Developer Roadmap](https://roadmap.sh/backend):
 - Focus Areas: Backend development, coding principles, software best practices
 
 ## Scripts & Projects
-Python-scripts
-- Description: Practice scripts and exercises
-- Link:
-  
-Future-projects (Coming Soon)
-- Larger projects as I advance my skills in backend development
-- Link: 
+Practice python code and exercises
+- COMING SOON: Master Script Folder
+- [Card Display Script](https://github.com/ventura-christian/Backend-Grindset/tree/main/Card-Display)
 
 ## 🌱 About Me
 My name is Christian Ventura. <br> I am a full-time student studying Full-Stack Web Development. <br> My focus is on Backend Web Development, building coding discipline, exploring new concepts, and learning something new each day. <br> This repository is my growth hub for learning and experimentation. 
