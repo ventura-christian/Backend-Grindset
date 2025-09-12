@@ -20,9 +20,8 @@ Following the [Backend Developer Roadmap](https://roadmap.sh/backend):
 - Focus Areas: Backend development, coding principles, software best practices
 
 ## 📜 Scripts & Projects
-Practice python code and exercises
-- COMING SOON: Master Script Folder
-- [Card Display Script](https://github.com/ventura-christian/Backend-Grindset/tree/main/Card-Display)
+This folder contains all the code snippets and programs I write as I continue learning 
+- [Master Script Folder](https://github.com/ventura-christian/Backend-Grindset/tree/main/Scripts)
 
 ## 🔄 Updates
 This repository I will get updated with new code as I write it. 
