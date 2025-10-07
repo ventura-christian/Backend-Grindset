@@ -22,6 +22,7 @@ Following the [Backend Developer Roadmap](https://roadmap.sh/backend):
 ## 📜 Scripts & Projects
 This folder contains all the code snippets and programs I write as I continue learning 
 - [Master Script Folder](https://github.com/ventura-christian/Backend-Grindset/tree/main/Scripts)
+- [Python Crash Course Scripts / Notes](https://github.com/ventura-christian/Backend-Grindset/tree/main/Crash_Course_Python/Chapter4_Working_with_Lists) 
 
 ## 🔄 Updates
 This repository I will get updated with new code as I write it. 
