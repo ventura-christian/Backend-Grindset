@@ -1,5 +1,5 @@
 """
-- For loops
+For loops
 """
 
 magic_cards = ['dark confidant', 'polluted delta', 'thoughtseize', 'jace, the mind sculptor']
