@@ -40,3 +40,23 @@ print(f'My favorite pizzas are: {my_favorite_pizzas}')
 print()
 print(f'My friend Ronald\'s favorite pizzas are: {friend_pizzas}')
 """
+
+
+"""
+This is a piece of code I wrote to add the even numbers from one list into another. Then the list gets sorted and reversed before being printed. 
+
+numbered_list = [10, 2, 203, 88]
+even_list = []
+
+for num in numbered_list:
+    if num % 2 == 0:
+        even_list.append(num)
+    even_list.sort()
+    even_list.reverse()
+print(even_list)
+"""
+
+
+
+
+
