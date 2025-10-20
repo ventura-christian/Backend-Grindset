@@ -25,4 +25,4 @@ This folder contains all the code snippets and programs I write as I continue le
 - [Python Crash Course Scripts / Notes](https://github.com/ventura-christian/Backend-Grindset/tree/main/Crash_Course_Python/Chapter4_Working_with_Lists) 
 
 ## 🔄 Updates
-Check back often as this repository will be updated as I learn new topics write more code. 
+Check back often as this repository will be updated as I learn new topics and write more code. 
