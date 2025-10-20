@@ -75,9 +75,17 @@ print(list_of_cubes)
 """
 
 
+# This is the previous script except I used list comprehension to place the code in one line.
 """
-This is the previous script except I used list comprehension to place the code in one line.
 list_of_cubes = [num ** 3 for num in range(1, 11)]
 print(list_of_cubes)
 """
+"""
+players = ['john', 'jacob', 'jingleheimer', 'schmidt', 'mike', 'mark', 'tom', 'kim', 'zeke']
+print('These are my top 4 players:')
+for player in players[:4]:
+    print(player.title())"""
+    
+
+
 
