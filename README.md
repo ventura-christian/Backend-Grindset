@@ -1,28 +1,34 @@
-
 # 💻 Backend-Grindset
-This repository is a central hub for all the code I write while studying backend web development. <br>
-Every script I write, whether small or significant, will live here to document my journey toward becoming a professional backend developer.
 
-## 🚀 What I’m Learning
-I’m currently focused on becoming a backend web developer while sharpening my fundamental
-- Python programming
-- Git & GitHub
-- VS Code
-- Beginner-level HTML, CSS, and JavaScript
-- Basic knowledge of Java, SQL, PostgreSQL
-- Developing coding discipline by learning new topics and committing daily
+This repository serves as my personal development hub for backend web engineering.
+Every line of code, whether a small script or a larger project, documents my progress toward mastering backend systems and becoming a professional backend developer.
+
+## 🚀 Current Focus
+
+I’m building a strong foundation in backend development by deepening my understanding of core technologies and tools:
+
+- Python 3.11+: primary backend language and scripting foundation
+- Git & GitHub: version control, branching, and collaborative workflows
+- VS Code: development environment setup and extensions
+- FastAPI: modern Python backend framework
+- PostgreSQL: understanding relational databases
+- Software Discipline: consistent coding habits, structured learning, and daily commits
 
 ## 💡 Tech Stack & Topics
-Following the [Backend Developer Roadmap](https://roadmap.sh/backend):
-- Languages: Python
-- Databases: SQL, PostgreSQL (basics)
+
+Guided by the [Backend Developer Roadmap](https://roadmap.sh/backend), my learning is centered on:
+
+- Languages: Python (core focus)
+- Databases: PostgreSQL (basics)
 - Tools: Git, GitHub, VS Code
-- Focus Areas: Backend development, coding principles, software best practices
+- Core topics: Backend architecture, API design, database modeling, and software best practices
 
 ## 📜 Scripts & Projects
-This folder contains all the code snippets and programs I write as I continue learning 
-- [Master Script Folder](https://github.com/ventura-christian/Backend-Grindset/tree/main/Scripts)
-- [Python Crash Course Scripts / Notes](https://github.com/ventura-christian/Backend-Grindset/tree/main/Crash_Course_Python/Chapter4_Working_with_Lists) 
 
-## 🔄 Updates
-Check back often as this repository will be updated as I learn new topics and write more code. 
+All learning artifacts, from small utilities to larger
+
+- [Master Script Folder](https://github.com/ventura-christian/Backend-Grindset/tree/main/Scripts)
+
+## 🔄 Repository Updates
+
+This repository evolves as I do and will be updated regularly with new scripts, refactored code, and improved implementations reflecting my growth in backend engineering
